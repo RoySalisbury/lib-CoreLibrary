@@ -43,6 +43,10 @@
         /// <summary>
         /// 
         /// </summary>
-        ESP32_DEVKITC = 7
+        NETDUINO3_WIFI = 7, 
+        /// <summary>
+        /// 
+        /// </summary>
+        ESP32_DEVKITC = 8
     }
 }
