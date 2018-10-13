@@ -1,4 +1,4 @@
-[![NuGet](https://img.shields.io/nuget/dt/nanoFramework.CoreLibrary.svg)]() [![#yourfirstpr](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://github.com/nanoframework/Home/blob/master/CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/nanoframework/Home/blob/master/LICENSE) [![NuGet](https://img.shields.io/nuget/dt/nanoFramework.CoreLibrary.svg)]() [![#yourfirstpr](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://github.com/nanoframework/Home/blob/master/CONTRIBUTING.md)
 [![Discord](https://img.shields.io/discord/478725473862549535.svg)](https://discord.gg/gCyBu8T)
 
 
@@ -14,7 +14,7 @@
 | Component | Build Status | NuGet Package |
 |:-|---|---|
 | Core Library | [![Build status](https://ci.appveyor.com/api/projects/status/5b37qa4h0o2ci3db/branch/master?svg=true)](https://ci.appveyor.com/project/nfbot/lib-corelibrary/branch/master) | [![NuGet](https://img.shields.io/nuget/vpre/nanoFramework.CoreLibrary.svg)](https://www.nuget.org/packages/nanoFramework.CoreLibrary/)  |
-| Core Library (preview) | [![Build status](https://ci.appveyor.com/api/projects/status/5b37qa4h0o2ci3db?svg=true)](https://ci.appveyor.com/project/nfbot/lib-corelibrary) | [![MyGet Pre Release](https://img.shields.io/myget/nanoframework-dev/vpre/nanoFramework.CoreLibrary.svg)](https://www.myget.org/feed/nanoframework-dev/package/nuget/nanoFramework.CoreLibrary) |
+| Core Library (preview) | [![Build status](https://ci.appveyor.com/api/projects/status/5b37qa4h0o2ci3db/branch/develop?svg=true)](https://ci.appveyor.com/project/nfbot/lib-corelibrary/branch/develop) | [![MyGet Pre Release](https://img.shields.io/myget/nanoframework-dev/vpre/nanoFramework.CoreLibrary.svg)](https://www.myget.org/feed/nanoframework-dev/package/nuget/nanoFramework.CoreLibrary) |
 
 
 ## Feedback and documentation
