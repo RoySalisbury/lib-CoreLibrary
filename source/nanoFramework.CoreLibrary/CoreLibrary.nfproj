@@ -87,7 +87,6 @@
     <Compile Include="System\Double.cs" />
     <Compile Include="System\Enum.cs" />
     <Compile Include="System\Console.cs" />
-    <Compile Include="System\Environment.cs" />
     <Compile Include="System\Exception.cs" />
     <Compile Include="System\FlagsAttribute.cs" />
     <Compile Include="System\GC.cs" />
@@ -162,8 +161,6 @@
     <Compile Include="System\Runtime\InteropServices\Attributes.cs" />
     <Compile Include="System\Runtime\InteropServices\CharSet.cs" />
     <Compile Include="System\Runtime\InteropServices\LayoutKind.cs" />
-    <Compile Include="System\Runtime\InteropServices\RuntimeInformation\OSTarget.cs" />
-    <Compile Include="System\Runtime\InteropServices\RuntimeInformation\RuntimeInformation.cs" />
     <Compile Include="System\Runtime\Remoting\RemotingServices.cs" />
     <Compile Include="System\Runtime\Remoting\__TransparentProxy.cs" />
     <Compile Include="System\SByte.cs" />
